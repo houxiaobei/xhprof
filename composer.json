@@ -1,0 +1,12 @@
+{
+    "name": "houxiaobei/xhprof",
+    "description": "XHGUI is a GUI for the XHProf PHP extension, using a database backend, and pretty graphs to make it easy to use and interpret.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Paul Reinheimer",
+            "email": "paul@preinheimer.com"
+        }
+    ],
+    "require": {}
+}
